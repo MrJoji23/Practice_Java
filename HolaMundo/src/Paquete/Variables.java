@@ -11,4 +11,10 @@ public class Variables {
 	
 	short numeroShort = 32767;
 
+//int: Emplea un tamaño mayor, 4 bytes (32 bits)
+//Esto permite almacenar valores entre [-2,147,483,648 a 2,147,483,647]
+	
+	int numeroInt = 41825;
+	
+//long: 
 }
