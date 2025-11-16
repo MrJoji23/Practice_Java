@@ -8,6 +8,7 @@ public class Variables {
 	
 //short: Emplea el doble de almacenamiento de (byte)
 //Esto permite almacenar valores entre [-32.768, 32.767].
-
+	
+	short numeroShort = 32767;
 
 }
