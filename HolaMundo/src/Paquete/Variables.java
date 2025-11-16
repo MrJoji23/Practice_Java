@@ -2,7 +2,7 @@ package Paquete;
 
 public class Variables {
 	
-	// NUMEROS ENTEROS
+	// NUMEROS ENTEROS ( ENTEROS) 
 	
 //Byte: Emplea un sólo byte (8 bits) de almacenamiento
 //Esto permite almacenar valores entre [-128, 127].
@@ -24,7 +24,7 @@ public class Variables {
 	
 	long numeroLong = 922284545;
 	
-	// NUMEROS FLOTANTES
+	// NUMEROS FLOTANTES (DECIMALES)
 	
 //float: Emplea un tamaño de 32 bits (4 bytes)
 //Esto permite almacenar valores grandes
