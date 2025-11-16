@@ -16,5 +16,7 @@ public class Variables {
 	
 	int numeroInt = 41825;
 	
-//long: 
+//long: Emolea el tamaño mayor de todos los enteros, 8 bytes (64 bits)
+//Esto permite almacenar valores muy grandes
+	long numeroLong = 922284545;
 }
