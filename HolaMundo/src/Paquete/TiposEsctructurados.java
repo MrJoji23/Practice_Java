@@ -11,7 +11,7 @@ public class TiposEsctructurados {
 	//Variable de ajava de clase Math
 		Math M;
 	//Variable de la clase Scanner.
-		//Scanner S;
+		//Scanner S;aaaa
 	//Variable de Java de clase BufferedReader
 		//BufferedReader B;
 		
