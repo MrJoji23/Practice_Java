@@ -4,6 +4,11 @@ public class estructuras_anidadas {
 
 	public static void main(String[] args) {
 		
+		//¿Para que se usa?
+		//✔ agrupar condiciones relacionadas
+		//✔ evitar repetir código
+		//✔ separar casos por niveles
+		
 		int numero = 9; // Declaro la variable
 
 		if (numero >= 0){ // primer If, pregunta si el numero es mayor o igual a 0

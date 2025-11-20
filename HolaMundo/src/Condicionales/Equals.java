@@ -31,7 +31,7 @@ public class Equals {
 		    System.out.println("false");
 		}
 
-		if (x.equals(y)) // equals compara que tenga el mismo contenido 
+		if (x.equals(y)) // equals compara que tenga el mismo contenido las variables
 		{
 		    System.out.println("true");
 		}
